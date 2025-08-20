@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm hhh-yyc!
 
-<!--
-**hhh-yyc/hhh-yyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student | Aspiring Developer**
+- Passionate about solving real-world problems through code and continuous learning.
 
-Here are some ideas to get you started:
+## 🛠️ Languages & Skills
+- **C / C++**
+- **Python**
+- Web Development
+- Reverse Engineering & Pwn
+- Traffic Identification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects & Experience
+- **Web Projects:** Building and exploring dynamic websites and applications.
+- **Reverse & Pwn:** Diving deep into security, reverse engineering, and binary exploitation.
+- **Traffic Identification:** Experimenting with network analysis and identification techniques.
+
+## 🧩 Interests
+- **Games:** Coding, playing, or designing—games are my playground!
+- **Go:** Exploring the strategy and fun of the classic board game.
+
+---
+
+📚 Always learning. Always building.  
+📫 Reach me: **213230929@seu.edu.cn**
+
+Let’s connect or collaborate—check out my repositories or reach out!
